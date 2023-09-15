@@ -30,9 +30,6 @@ violets are blue.
 with(mtcars, plot(hp, mpg))
 ```
 
-```{python}
-print("Hello World! Python here, do you miss R already?")
-```
 
 I quote:
 
